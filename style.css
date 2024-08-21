@@ -7,7 +7,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #d64499;
+    color: #072e4e;
 }
 .container{
     width: 90%;
@@ -16,8 +16,8 @@ body {
 }
 
 header{
-    background: #333;
-    color: #fff;
+    background: #1a0101;
+    color: #0e9bb1;
     padding: 10px 0;
     position: fixed;
     width: 100%;
@@ -47,7 +47,7 @@ header nav ul li a {
 }
 #hero {
     background: url('img/foto3.jpg') no-repeat center center/cover;
-    color: #07e3f3;
+    color: #0addf5;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -73,15 +73,15 @@ border-radius: 10px;
 .cta {
     display: inline-block;
     padding: 10px 20px;
-    background: #b19504;
-    color: #fff;
+    background: #fd52b0;
+    color: #0fb1f7;
     text-decoration: none;
     border-radius: 5px;
     transition: background 0.3s;
 }
 
 .cta:hover {
-    background: #555;
+    background: #555555;
 }
 
 section {
@@ -115,7 +115,7 @@ margin-bottom: 10px;
 }
 
 .feature:hover {
-    background: #ddd;
+    background: #3990dc;
     color: #000;
 }
 #products {
